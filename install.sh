@@ -7,5 +7,7 @@ git clone https://github.com/DarkSecDevelopers/HiddenEye
 rm _rf .git
 cd HiddenEye
 pip3 install requests
-
-python Hidden
+cd
+git clone https://github.com/KapoorDev/ngrok-termux;cd ngrok-termux;unzip Ngrok*.zip && chmod 777 ngrok && mv ngrok /root/HiddenEye
+cd Hidd*
+python Hidden*
